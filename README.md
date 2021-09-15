@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BickyRostock
+- 👀 I’m interested in writing useful applications
+- 🌱 I’m currently learning anything new in .net community
+- 💞️ I’m looking to collaborate on anything really as long as it's interesting
+- 📫 How to reach me: comment on github or find me on linkedin linkedin.com/in/rickybostock/
